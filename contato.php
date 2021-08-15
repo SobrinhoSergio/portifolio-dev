@@ -28,7 +28,7 @@
                     <textarea name="message" id="message" required placeholder="Olá, gostei do site. Gostaria.."></textarea>
                 </div>
 
-                <input type="hidden" name="_captcha" value="true" />
+                <input type="hidden" name="_captcha" value="false" />
 
                 <input
                 type="hidden"
