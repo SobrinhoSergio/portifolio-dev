@@ -4,7 +4,7 @@
 
         <div class="btn-whatsapp">
             <span>
-                <img src="assets/imagens/whatsapp_logo_icon_147205.png" alt="img-whatsapp">
+                <img src="assets/imagens/whatsapp.png" alt="img-whatsapp">
             </span>
         </div>
     </section>

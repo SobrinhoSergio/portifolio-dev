@@ -40,6 +40,7 @@
                 <h1>Dev. <span>Full-Stack</span></h1>
             </a>
         </div>
+
         <nav class="navbar">
 
             <button class="btn-mobile">
@@ -50,8 +51,7 @@
                     <div class="line3"></div>
                 </div>
             </button>
-            
-
+        
             <ul class="menu">
                 <li class="about"><a href="index.php">Home</a></li>
                 <li class="projects"><a href="projetos.php">Projetos</a></li>
@@ -65,5 +65,6 @@
                 </li>
             </ul>
         </nav>
+
     </section>
 </header>

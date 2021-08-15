@@ -74,7 +74,7 @@ header{
 /*MAIN*/
 
 .main{
-    background-image: url(../imagens/bg01.jpg);
+    background-image: url(../imagens/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -279,7 +279,7 @@ header{
 .contato .section-container{
     display: flex;
     flex-direction: row;
-    column-gap: 50px;
+    gap: 50px;
 }
 
 .formulario{
@@ -287,6 +287,7 @@ header{
     padding: 30px;
     border-radius: 15px;
     max-width: 50%;
+    max-width: 100%;
 }
 
 .formulario .form{
