@@ -8,7 +8,7 @@
             <h2>Formulário de Contato</h2>
             
             <form 
-                action="https://formsubmit.co/sobrinhosergio00@gmail.com"   
+                action="3584e121c5d1098f90fcac0b11bfbd5e"   
                 method="POST" 
                 class="form"
             >
