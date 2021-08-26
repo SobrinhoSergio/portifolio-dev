@@ -59,6 +59,45 @@
 
 }
 
+
+@media (max-width: 745px){
+
+    /*HOME*/
+
+    .portfolio{
+        max-width: 100%;
+    }
+
+    /*PROJETOS*/
+
+    .habilidades .container-projeto{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+@media (max-width: 500px){
+
+    /*PROJETOS*/
+
+    .habilidades{
+        padding: 10px 60px;
+    }
+
+    .habilidades .container-projeto .linguagem{
+       margin: 0 auto;
+    }
+
+    .habilidades .container-projeto{
+        grid-template-columns: 1fr;
+    }
+
+    
+
+}
+
+
+
 .menu.active{
     transform: translateX(0);
 }
