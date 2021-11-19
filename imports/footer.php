@@ -12,11 +12,11 @@
 
 </div>
 
-    <script src="./assets/scripts/main.js"></script>
-    <script src="./assets/scripts/loand-page.js"></script>
-    <script src="./assets/scripts/menu-active.js"></script>
-    <script src="./assets/scripts/mobile-navbar.js"></script>
-    <script src="./assets/scripts/dark-mode.js"></script>
+    <script src="./scripts/main.js"></script>
+    <script src="./scripts/loand-page.js"></script>
+    <script src="./scripts/menu-active.js"></script>
+    <script src="./scripts/mobile-navbar.js"></script>
+    <script src="./scripts/dark-mode.js"></script>
 
 </body>
 </html>

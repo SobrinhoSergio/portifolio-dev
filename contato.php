@@ -1,5 +1,5 @@
 <?php
-    include_once("assets/imports/header.php");
+    include_once("./imports/header.php");
 ?>        
         
 <main class="main contato">
@@ -51,5 +51,5 @@
 </main>
 
 <?php
-    include_once("assets/imports/footer.php");
+    include_once("./imports/footer.php");
 ?>

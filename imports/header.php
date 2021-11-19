@@ -8,18 +8,18 @@
     <meta name="author" content="Sérgio de Souza Lima Sobrinho">
     <title>Sérgio Sobrinho - Portifólio</title>
     <!--Style CSS-->
-    <link rel="stylesheet" href="./assets/style/main.css">
-    <link rel="stylesheet" href="./assets/style/dark-mode.css">
-    <link rel="stylesheet" href="./assets/style/responsive.css">
+    <link rel="stylesheet" href="./styles/main.css">
+    <link rel="stylesheet" href="./styles/dark-mode.css">
+    <link rel="stylesheet" href="./styles/responsive.css">
     <!--shortcut icon-->
     <link rel="shortcut icon" href="assets/imagens/icones/faicon.png">
     <!-- JQUERY --> 
     <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
     <!--Bootstrap-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
-     <!--FONTAWESOME-->
-     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" 
-     integrity="sha384-sl'e=or8p86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <!--FONTAWESOME-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" 
+    integrity="sha384-sl'e=or8p86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 </head>
 

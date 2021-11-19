@@ -1,5 +1,5 @@
 <?php
-    include_once("assets/imports/header.php");
+    include_once("./imports/header.php");
 ?>       
        
 <main class="main projetos">
@@ -18,6 +18,10 @@
 
                 <div class="linguagem javascript">
                     <span><i class="fab fa-js"></i></span>
+                </div>
+
+                <div class="linguagem sass">
+                    <span><i class="fab fa-sass"></i></span>
                 </div>
 
                 <div class="linguagem php">
@@ -40,6 +44,7 @@
                     <span><i class="bi bi-bootstrap"></i></span>
                 </div>
 
+
                 <div class="linguagem vscode">
                     <span><i class="ri-terminal-box-fill"></i></span>
                 </div>
@@ -49,5 +54,5 @@
 </main>
 
 <?php
-    include_once("assets/imports/footer.php");
+    include_once("./imports/footer.php");
 ?>
