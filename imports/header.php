@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="./styles/dark-mode.css">
     <link rel="stylesheet" href="./styles/responsive.css">
     <!--shortcut icon-->
-    <link rel="shortcut icon" href="assets/imagens/icones/faicon.png">
+    <link rel="shortcut icon" href="assets/icons/faicon.png">
     <!-- JQUERY --> 
     <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
     <!--Bootstrap-->
